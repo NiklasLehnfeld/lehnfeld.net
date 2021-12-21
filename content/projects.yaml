@@ -1,0 +1,22 @@
+- name: netzpolitik.org Mobile App
+  url: https://github.com/NiklasLehnfeld/netzpolitik-mobile
+  description: Mobile app for the famous netzpolitik.org blog written in Flutter. 
+  status: live
+  tags:
+    - Flutter
+    - iOS
+    - Android
+  icon: github
+  image: images/netzpolitik-org.jpeg
+
+- name: Phi-Dog
+  url: https://phi-dog.de/
+  description: The only app you need for your dog.
+  status: in progress
+  tags:
+    - Flutter
+    - Firebase
+    - iOS
+    - Android
+  icon: website
+  image: images/phi-dog.png

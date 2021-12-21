@@ -1,0 +1,28 @@
+- profile:
+  initials: NL
+  name: Niklas Lehnfeld
+  profession: Fullstack Software Engineer
+  image: images/profile.jpg
+  location: Wolfenbüttel, Germany
+  relocation: false
+  company: Volkswagen SDC:Hannover
+  for_hire: false
+  focus: Building awesome products
+  focus_url: ''
+  about: |
+    Software engineer with 5+ years of expierence in software development. Interested in building the whole stack - web & mobile application, backend & system infrastructure.
+  skills:
+    - TypeScript / JavaScript
+    - Java / Kotlin
+    - Dart
+  tools:
+    - React
+    - React-Native
+    - AWS
+    - Flutter
+    - Spring
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
