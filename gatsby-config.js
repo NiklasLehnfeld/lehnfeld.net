@@ -7,7 +7,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@lehnfeld/gatsby-theme-intro",
       options: {
         basePath: "/",
         contentPath: "content/",
