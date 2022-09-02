@@ -20,3 +20,15 @@
     - Android
   icon: website
   image: images/phi-dog.png
+
+- name: DJ Planer
+  url: https://apps.apple.com/us/app/dj-planer/id1638201550
+  description: Organizer optimized for DJs. On behalf of Disco-Flashlight.
+  status: live
+  tags:
+    - Flutter
+    - Firebase
+    - iOS
+    - Android
+  icon: website
+  image: images/dj-planer.png
