@@ -22,7 +22,7 @@
   image: images/phi-dog.png
 
 - name: DJ Planer
-  url: https://apps.apple.com/us/app/dj-planer/id1638201550
+  url: https://lehnfeld.net/djplaner
   description: Organizer optimized for DJs. On behalf of Disco-Flashlight.
   status: live
   tags:
